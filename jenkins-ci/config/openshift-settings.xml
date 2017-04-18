@@ -5,8 +5,8 @@
     <org.jenkinsci.plugins.openshift.Server>
       <name>openshift</name>
       <brokerAddress>openshift.redhat.com</brokerAddress>
-      <username>demo</username>
-      <password>demo</password>
+      <username>gertjan@vanhalem.net</username>
+      <password>password...</password>
     </org.jenkinsci.plugins.openshift.Server>
   </servers>
 </org.jenkinsci.plugins.openshift.DeployApplication_-DeployApplicationDescriptor>
